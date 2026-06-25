@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# PowerPoint and PDF files (we only need the exported images)
+*.pptx
+*.pdf
+*.ppt
+
+# Temp files
+*.tmp
+*.bak
+
+# IDE
+.vscode/
+.idea/
+
+# Build directories
+dist/
+build/
