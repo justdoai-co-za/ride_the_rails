@@ -6,14 +6,23 @@
 *.pdf
 *.ppt
 
+# Word documents
+*.docx
+*.doc
+
 # Temp files
 *.tmp
 *.bak
 
-# IDE
+# IDE and devcontainer
 .vscode/
 .idea/
+.devcontainer/
 
 # Build directories
 dist/
 build/
+
+# Other source files
+presentation.html
+South_Africa_s_Railway_Cycling_Network.png
